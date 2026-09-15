@@ -42,7 +42,7 @@ The design includes:
 - Prescriptions and medication instructions
 - Appointment payments
 
-![Simple Clinic Relational Schema](01-Simple-Clinic/Simple-Clinic.png)
+![Uploading Simple Clinic.png…]()
 
 ---
 
